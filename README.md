@@ -16,3 +16,12 @@ run `` install.sh `` to install dependencies required for the game.
 $ python hangman
 ``
 to run the game
+
+## Dependencies  
+Python-Tk (Tkinter).   
+Python-imaging-tk.  
+The install script can install these for you if you're using version 2.7, but please feel free to install them using your favourite package manager.
+```
+sudo apt-get install python-Tk
+sudo apt-get install python-imaging-tk
+```
